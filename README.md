@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/NXT-Client/launcher">
-    <img src="assets/hello-nxt.png" alt="Hello NXT Logo" width="760">
+  <img src="assets/nxt-icon.ico" alt="NXT Icon" width="60" height="60">
   </a>
 
   <h3 align="center">NXT Launcher</h3>
