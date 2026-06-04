@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-![GitHub Tag](https://img.shields.io/github/v/tag/vaqqq/NXT-client?style=for-the-badge&label=version)
+![GitHub Tag](https://img.shields.io/github/v/tag/NXT-Client/launcher?style=for-the-badge&label=version)
 ![License](https://img.shields.io/badge/Proprietary-green?style=for-the-badge&label=License)
 ![Launcher](https://img.shields.io/badge/NXT-Launcher-7C4DFF?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D4?style=for-the-badge&logo=windows)
@@ -8,8 +8,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/vaqqq/nxt-client">
-    <img src="https://raw.githubusercontent.com/vaqqq/nxt-client/main/src/assets/logo-dark.png" alt="NXT Client Logo" width="360">
+  <a href="https://github.com/NXT-Client/launcher">
+    <img src="assets/hello-nxt.png" alt="Hello NXT Logo" width="760">
   </a>
 
   <h3 align="center">NXT Launcher</h3>
@@ -67,8 +67,8 @@
 <!-- ABOUT THE LAUNCHER -->
 ## About the Launcher
 
-<a href="https://github.com/vaqqq/nxt-client">
-  <img src="https://raw.githubusercontent.com/vaqqq/nxt-client/main/src/assets/icon.ico" alt="NXT Icon" width="60" height="60">
+<a href="https://github.com/NXT-Client/launcher">
+  <img src="assets/nxt-icon.ico" alt="NXT Icon" width="60" height="60">
 </a>
 
 Welcome to the NXT Launcher.
